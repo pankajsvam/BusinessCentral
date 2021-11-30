@@ -1,0 +1,26 @@
+{
+  "id": "a85c4d9a-16ca-4cfc-a909-3290902e1cf3",
+  "name": "BCTraining",
+  "publisher": "Default publisher",
+  "version": "1.0.0.0",
+  "brief": "",
+  "description": "",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "",
+  "screenshots": [],
+  "platform": "1.0.0.0",
+  "application": "17.0.0.0",
+  "idRanges": [
+    {
+      "from": 50000,
+      "to": 52500
+    }
+  ],
+  "showMyCode": true,
+  "runtime": "6.0",
+  "dependencies": []
+   
+}
